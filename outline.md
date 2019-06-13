@@ -59,5 +59,13 @@ SECTION 1 - The groundwork
 
 SECTION 2 - Building, breaking, evolving, repeat.
 
-8. The initial issue.
-8.1 
+Preface: In this section we will use an example of an issue tracker, building it over time using traditional patterns, exploring the concentration and causes of design inertia, and presenting multiple possible solutions.
+
+The examples will follow multiple concurrent pathways through to a truly evolvable design to understand both the ways to identify common sources of inertia, as well as the telltale signs of more unique sources of inertia.
+
+8. The initial issue. (Small, only limited functionality centered around created viewing and deleting an issue)
+8.1 The first attempts - (RPC, poor resource, deep CRUD)
+8.2 A language for our design
+8.3 The first revisions
+
+
