@@ -27,10 +27,11 @@ SECTION 1 - The groundwork
 2.2 Temporal - bound to a past or future state
 2.3 Transitive - bound to something through you (tunneled)
 2.4 Relational - one thing required to be used with another thing
-2.5 Synchronous - two or more things that have to happen simultaneously
-2.6 Logical - bound to logic
-2.7 Domain - bound to your domain context
-2.8 Presentation - driven by your server
+2.5 Expressive - bound to the granularity of expression provided
+2.6 Synchronous - two or more things that have to happen simultaneously
+2.7 Logical - bound to logic
+2.8 Domain - bound to your domain context
+2.9 Presentation - driven by your server
 
 3. Design Inertia
 3.1 What is good design? Clarity of purpose (high cohesion), and low barriers to entry (low coupling)
