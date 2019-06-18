@@ -22,40 +22,44 @@ SECTION 1 - The groundwork
 1.3 Why not to build with APIs?
 1.4 Why does evolution matter?
 
-2. Design Inertia
-2.1 Constraints: Friend or Foe?
-2.2 Shaping the unknown
-2.3 Separation of Concerns
-2.4 Hold the line! aka the information hiding principle
-2.5 Authority, state, and messages.
+2. Coupling
 
-3. Knowing your Audience
-3.1 APIs for humans
-3.2 APIs for machines
-3.3 APIs for both
 
-4. Use the language of the audience
-4.1 Ubiquitous Language
-4.2 Typed Language
-4.3 Bridging the Gap
+3. Design Inertia
+3.1 What is good design? Clarity of purpose (high cohesion), and low barriers to entry (low coupling)
+3.2 Constraints: Friend or Foe?
+3.3 Shaping the unknown
+3.4 Separation of Concerns
+3.5 Hold the line! aka the information hiding principle
+3.6 Authority, state, and messages.
 
-5. Relationships
-5.1 Anonymous
-5.2 Contextless
-5.3 Standard
-5.4 Custom
+4. Knowing your Audience
+4.1 APIs for humans
+4.2 APIs for machines
+4.3 APIs for both
 
-6. Shedding the bikeshedding
-6.1 Measuring the importance
-6.2 Measuring the value
-6.3 Measuring the impact
-6.4 Measuring the use
+5. Use the language of the audience
+5.1 Ubiquitous Language
+5.2 Typed Language
+5.3 Bridging the Gap
 
-7. Evolution
-7.1 Designing For Change
-7.2 Designing For Clarity
-7.3 Designing For Death
-7.4 Killing your creation.
+6. Relationships
+6.1 Anonymous
+6.2 Contextless
+6.3 Standard
+6.4 Custom
+
+7. Shedding the bikeshedding
+7.1 Measuring the importance
+7.2 Measuring the value
+7.3 Measuring the impact
+7.4 Measuring the use
+
+8. Evolution
+8.1 Designing For Change
+8.2 Designing For Clarity
+8.3 Designing For Death
+8.4 Killing your creation.
 
 SECTION 2 - Building, breaking, evolving, repeat.
 
@@ -67,5 +71,9 @@ The examples will follow multiple concurrent pathways through to a truly evolvab
 8.1 The first attempts - (RPC, poor resource, deep CRUD)
 8.2 A language for our design
 8.3 The first revisions
+
+SECTION 3 - The executive Summary
+
+Selling long term needs and goals in a short term world is HARD, real hard. THe goal of this section is to give real world analogies to common tropes, while not exhaustive it should be instructive and help build foundations for discussion.
 
 
