@@ -14,6 +14,14 @@ Right-sizing your constraints, picking the architecture for a pattern, and the p
 
 A few words before all the REST. - Disecting the Architectural Pattern
 
+SECTION 0 - Prologue
+0. Understanding The Problem
+0.1 Constraints, Contexts, and Confusion
+0.2 Authority, Intent, and Responsibility
+0.3 Understanding A Monolith
+0.4 Understanding Distributed Systems
+
+
 SECTION 1 - The groundwork
 
 1. Introduction to APIs

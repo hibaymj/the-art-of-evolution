@@ -1,0 +1,3 @@
+Technology exists to improve the lives of people around the world. The creation of new technology is neither a simple nor inexpensive endeavor. However, with planning and skill we have the ability to greatly reduce the magnitude of each of these costs.
+
+It isn't possible to predict the future, but by creating a deeper understanding of the business domains, consumer issues, solution spaces, and architectural patterns available to us, we can prepare for changes the future will bring. This may sound like a nearly impossible task, but it turns out this a lot more feasible when you learn the art of identifying the problem you are trying to solve and pairing it with the right patterns and techniques.
