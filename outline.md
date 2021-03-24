@@ -1,20 +1,18 @@
-The general plan for the book is as follows.
+# Outline for the art of evolution
 
-Preface: Who is this book for?
+## Preface: Who is this book for?
 * New and experienced API developers
 * New and experienced platform architects
 * New and experienced platform product owners
-
 * Executives interested in Lean product ownership - APIs: The Executive Summary
 
-Goals:
-Understand the nuanced choices to create APIs which gracefully adapt over time.
-Understand, measure, and eliminate the root causes of design inertia.
-Right-sizing your constraints, picking the architecture for a pattern, and the pattern for an architecture.
+## Goals:
+* Understand the nuanced choices to create APIs which gracefully adapt over time.
+* Understand, measure, and eliminate the root causes of design inertia.
+* Right-sizing your constraints, picking the architecture for a pattern, and the pattern for an architecture.
+* A few words before all the REST. - Disecting the Architectural Pattern
 
-A few words before all the REST. - Disecting the Architectural Pattern
-
-SECTION 0 - Prologue
+## SECTION 0 - Prologue
 0. Understanding The Problem
 0.1 Constraints, Contexts, and Confusion
 0.2 Authority, Intent, and Responsibility
@@ -22,7 +20,7 @@ SECTION 0 - Prologue
 0.4 Understanding Distributed Systems
 
 
-SECTION 1 - The groundwork
+## SECTION 1 - The groundwork
 
 1. Introduction to APIs
 1.1 What IS an API: Cutting through the noise.
@@ -89,6 +87,9 @@ The examples will follow multiple concurrent pathways through to a truly evolvab
 8.3 The first revisions
 
 SECTION 3 - The executive Summary
+## Preface 
+* Executives interested in Lean product ownership - APIs: The Executive Summary
+* Out of context problems
 
 Selling long term needs and goals in a short term world is HARD, real hard. THe goal of this section is to give real world analogies to common tropes, while not exhaustive it should be instructive and help build foundations for discussion.
 
