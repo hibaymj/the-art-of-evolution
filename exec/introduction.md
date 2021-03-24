@@ -21,8 +21,10 @@ Achieving lofty goals is done by understanding the needs within a system and mee
 The secret to building digital systems is to focus on making the whole system better. That's it.
 
 This is not a leadership book, nor is it a business or technology book. This is a guide, a map, to start your journey of building systems for a digitally augmented world. I hope to convey three key understandings which will transform the way you interact with your organizations, customers, and the world.
-* Architectural decisions made with short time horizons can be lethal for your organization. //Is this the evolutionairy arch one?
+* Architectural decisions made with short time horizons are existential threats to your organization. //Is this the evolutionairy arch one?
 * The goal of technology is to enable the optimal state of the entire system. Out of many possible changes technology can enable, the global maximum will often require changes to other parts of the system. It is critical technology is _not_ used to compensate for these mistakes.
 * The entire system must communicate using the same concepts and and interaction patterns. Technical systems must elevate communication abstractions to the level of all actors in the system. Ambiguous or implicit specification of concept or intent is at best a local maximum and is an impediment to future evolution.
 //* Technical systems must seek alignment with the larger system, and influence changes in other portions of the system. This includes physical, domain, and organizational systems. The goal of technology is not to have the optimal technical system, it is to enable the optimal state of the entire system.
-* Evolutionairy architecture is enabled by making choices with minimum change which maximizes the set of future choices.
+* Evolutionairy architecture is enabled by making choices with minimum change and maximize the set of future choices.
+
+
